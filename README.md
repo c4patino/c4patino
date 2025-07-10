@@ -1,15 +1,41 @@
-👋 Hey, I'm Ceferino Patino (C4), a St. Louis-based software engineer weaving through the code realms. Currently I'm a software engineer at the Donald Danforth Plant Science Center, where I orchestrate solutions with PyTorch, Django, and OpenCV, analyzing minirhizotron root systems using CNNs – a journey that's both challenging and deeply rewarding.
+# Hi, I'm Ceferino Patino
 
-🤖 In a past chapter, I served as the Lead Programmer at FIRST Tech Challenge Team 9027, where I steered autonomous navigation and precision control using OpenCV and Tensorflow, navigating the intricate dance of code and robotics.
+**Researcher | Software Developer | Open Source Contributor**  
+Computer Science at University of Nebraska – Lincoln (2024–2026)  
+Passionate about multi-agent systems, scientific computing, and developer tooling.
 
-👩‍🏫 As a Student Instructor at BDPA STL, I shared the intricacies of web development and software engineering, from Git to React, nurturing the spark in aspiring tech enthusiasts.
+## About Me
 
-🏆 The thrill of competition led me to the CyberUp CyberSecurity League, where I thrived in capture the flag competitions, wielding Wireshark, nmap, and Metasploit to secure strategic victories.
+I am an aspiring computer scientist focused on building robust, scalable software systems that bridge research and real-world impact. Currently, I develop tools for multi-agent reinforcement learning, high-throughput microscopy, and open scientific infrastructure.
 
-💻 I love participating in local hackathons wherever I go. Hackathons like the World Wide Technology Hackathon have been my playground, where I've collaborated with my friends on award-winning prototypes such as ClearGrade and Recess. Crafting SQL database models and designing API backends has become second nature in these coding marathons.
+- Currently learning Rust, CUDA, and MARL frameworks  
+- Contributing to open research in AI via OASYS Lab  
+- Open source contributor to the NixOS ecosystem  
+- Co-led the MOASEI Competition at AAMAS 2025
 
-🌐 Beyond coding marathons, I've lent my skills to community initiatives. One noteworthy contribution is the House Wars Management Portal at the Collegiate School of Medicine and Bioscience. This Django web application streamlined the management of local school events, introducing logic to balance team distribution and automate point aggregation. It became a custom oasis for over four hundred administrators and students, transforming event coordination into a seamless experience.
+## Featured Projects
 
-✨ My passion extends beyond code – I find joy in helping others and weaving into the fabric of the community. It's not just about crafting solutions; I want to make a tangible impact on the experiences of those around me.
+### free-range-zoo  
+Multi-Agent RL Benchmarks in Open Environments  
+POSG-based environments for wildfire response, cybersecurity, and rideshare  
+Supports MADDPG, COMA, and GNN-based MARL policies
 
-Let's connect, collaborate, and code. Whether it's unraveling plant mysteries, securing digital frontiers, or contributing to community projects, the horizon is rich with exciting challenges! 🌱💻✨
+### free-range-rust  
+Rust/CUDA acceleration for open MARL systems  
+Doubled simulation performance with low-level CUDA operations, exposed via Maturin
+
+### 3D Volumetric Lightsheet Microscope  
+High-throughput scientific imaging software  
+Built real-time acquisition and OpenCV processing stack handling 20+ GB/s
+
+## Tech Stack
+
+**Languages:** Python, C++, Rust, JavaScript, Lua, SQL, Bash, Go, Nix  
+**Frameworks:** PyTorch, OpenCV, Astro, React, MPI, Django  
+**Tools:** Docker, Git, NixOS, Maturin, HDF5, AWS, CI/CD  
+**Concepts:** Machine Learning, MARL, Parallel Programming, DevOps
+
+## Publications
+
+Inaugural MOASEI Competition at AAMAS'2025: A Technical Report  
+[arXiv:2507.05469](https://arxiv.org/abs/2507.05469) — Patino et al.
